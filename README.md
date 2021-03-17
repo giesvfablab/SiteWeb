@@ -1,5 +1,5 @@
 # FablabDemo
-Démo FabLab
+Démo Site Web
 
-[Page web](https://softcyd.github.io/FablabDemo/)
+[Page web](https://giesvfablab.github.io/SiteWeb/)
 
